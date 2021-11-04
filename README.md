@@ -76,16 +76,16 @@ Hi, I'm [Víctor Asenjo](https://victor-asenjo.github.io), a passionate self-tau
 
 <p align="center">
   <!--<img align="center" width="400px" high="195px" src="pictures/victor-asenjo.github.io.png" /><br>-->
-  <a href="https://github.com/victor-asenjo/github-readme-stats">
+  <a href="https://victor-asenjo.github.io/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=victor-asenjo&repo=victor-asenjo.github.io&theme=react" /></a>
   
-  <a href="https://github.com/victor-asenjo/github-readme-stats">
+  <a href="https://botmycalendar.github.io/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=victor-asenjo&repo=BotMyCalendar.github.io&theme=react" /></a>
   
   <a href="https://github.com/victor-asenjo/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=victor-asenjo&repo=github-readme-stats&theme=react" /></a>
   
-  <a href="https://github.com/victor-asenjo/github-readme-stats">
+  <a href="https://github.com/victor-asenjo/victor-asenjo.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=victor-asenjo&repo=victor-asenjo&theme=react" /></a>
 </p>
 <!--
