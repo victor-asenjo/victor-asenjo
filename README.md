@@ -85,7 +85,7 @@ Hi, I'm [Víctor Asenjo](https://victor-asenjo.github.io), a passionate self-tau
   <a href="https://github.com/victor-asenjo/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=victor-asenjo&repo=github-readme-stats&theme=react" /></a>
   
-  <a href="https://github.com/victor-asenjo/victor-asenjo.github.io">
+  <a href="https://github.com/victor-asenjo/victor-asenjo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=victor-asenjo&repo=victor-asenjo&theme=react" /></a>
 </p>
 <!--
