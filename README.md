@@ -32,19 +32,19 @@ Hi, I'm [Víctor Asenjo](https://victor-asenjo.github.io), a passionate self-tau
 <h2>🤝🏻Connect with Me</h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/victorasenjo/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-Víctor Asenjo-blue?logo=linkedin&logoColor=white&color=0072b1" />
+  <img src="https://img.shields.io/badge/LinkedIn-Víctor Asenjo-blue?logo=linkedin&logoColor=white&color=088F8F" />
 </a>
 
 <a href="https://telegram.me/victorasenjo" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Telegram-@victorasenjo-blue?logo=telegram&logoColor=white&color=0088cc" />
+  <img src="https://img.shields.io/badge/Telegram-@victorasenjo-blue?logo=telegram&logoColor=white&color=088F8F" />
 </a>
   
 <a href="https://www.instagram.com/victorasenjo22/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Instagram-@victorasenjo22-blue?logo=instagram&logoColor=white&color=8a3ab9" />
+  <img src="https://img.shields.io/badge/Instagram-@victorasenjo22-blue?logo=instagram&logoColor=white&color=088F8F" />
 </a>
 
 <a href="mailto:victorasenj@gmail.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Gmail-victorasenj@gmail.com-red?logo=gmail&logoColor=white&color=red" />
+  <img src="https://img.shields.io/badge/Gmail-victorasenj@gmail.com-red?logo=gmail&logoColor=white&color=088F8F" />
 </a>
 
 <h2><img src="pictures/tools.gif" width="25px"> Languages and tools:</h2> 
