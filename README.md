@@ -1,4 +1,4 @@
-<img align="left" alt="Víctor Asenjo" src="pictures/PortadaGitHubSinFondo.png" />
+<img align="center" width="100%" alt="Víctor Asenjo" src="pictures/PortadaGitHubSinFondo.png" />
 <h1> Hi there, I'm <a href=https://victor-asenjo.github.io>Víctor Asenjo</a> <img src="pictures/giphy.gif" width="30px"></h1>
 
 <a href="https://github.com/victor-asenjo">
