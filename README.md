@@ -1,3 +1,4 @@
+<img align="left" alt="Víctor Asenjo" src="pictures/PortadaGitHub.png" />
 <h1> Hi there, I'm <a href=https://victor-asenjo.github.io>Víctor Asenjo</a> <img src="pictures/giphy.gif" width="30px"></h1>
 
 <a href="https://github.com/victor-asenjo">
@@ -72,11 +73,19 @@ Hi, I'm [Víctor Asenjo](https://victor-asenjo.github.io), a passionate self-tau
 </p>
 
 <h2><img src="pictures/file-repo.git-icon.png" width="20px"> My repositories</h2>
+
 <p align="left">
-  <img align="center" width="400px" src="pictures/victor-asenjo.github.io.png" /><br>
+  <img align="center" width="400px" high="195px" src="pictures/victor-asenjo.github.io.png" /><br>
   <a href="https://github.com/victor-asenjo/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=victor-asenjo&repo=victor-asenjo.github.io&theme=react" />
   </a>
+</p>
+<p align="right">
+  <img align="center" width="400px" high="195px" src="pictures/botmycalendar.gif" /><br>
+  <a href="https://github.com/victor-asenjo/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=victor-asenjo&repo=BotMyCalendar.github.io&theme=react" />
+  </a>
+</p>
 <!--
 Here are some ideas to get you started:
 
