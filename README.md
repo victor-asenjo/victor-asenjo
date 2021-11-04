@@ -87,6 +87,12 @@ Hi, I'm [Víctor Asenjo](https://victor-asenjo.github.io), a passionate self-tau
   
   <a href="https://github.com/victor-asenjo/victor-asenjo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=victor-asenjo&repo=victor-asenjo&theme=react" /></a>
+  
+  <a href="https://github.com/victor-asenjo/PRO1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=victor-asenjo&repo=PRO1&theme=react" /></a>
+  
+  <a href="https://github.com/victor-asenjo/PRO2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=victor-asenjo&repo=PRO2&theme=react" /></a>
 </p>
 <!--
 Here are some ideas to get you started:
