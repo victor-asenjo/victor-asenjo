@@ -1,19 +1,19 @@
-<h1> Hi there, I'm <a href=https://victor-asenjo.github.io>Víctor Asenjo</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h1> Hi there, I'm <a href=https://victor-asenjo.github.io>Víctor Asenjo</a> <img src="pictures/giphy.gif" width="30px"></h1>
 
 <a href="https://github.com/victor-asenjo">
-  <img align="left" alt="Víctor Asenjo | GitHub" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/GitHub_Mark.png/615px-GitHub_Mark.png" />
+  <img align="left" alt="Víctor Asenjo | GitHub" width="22px" src="pictures/github.png" />
 </a>
 <a href="https://telegram.me/victorasenjo">
-  <img align="left" alt="Víctor Asenjo | Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png" />
+  <img align="left" alt="Víctor Asenjo | Telegram" width="22px" src="pictures/512px-Telegram_logo.svg.png" />
 </a>
 <a href="https://www.linkedin.com/in/victorasenjo/">
-  <img align="left" alt="Víctor Asenjo's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Víctor Asenjo's LinkedIN" width="22px" src="pictures/linkedin.svg" />
 </a>
 <a href="https://discordapp.com/users/victorasenjo#9937">
-  <img align="left" alt="Víctor Asenjo's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Víctor Asenjo's Discord" width="22px" src="pictures/discord.svg" />
 </a>
 <a href="https://www.instagram.com/victorasenjo22/">
-  <img align="left" alt="Víctor Asenjo's Spotify" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/600px-Instagram-Icon.png" />
+  <img align="left" alt="Víctor Asenjo's Spotify" width="22px" src="pictures/600px-Instagram-Icon.png" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=victor-asenjo.victor-asenjo)
@@ -35,12 +35,15 @@ Hi, I'm [Víctor Asenjo](https://victor-asenjo.github.io), a passionate self-tau
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://pbs.twimg.com/media/EuQcdomWgAAxP5_.png"></code>
+<code><img height="20" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"></code>
 
 <h2><img src="https://www.rankia.com/assets/landing-brokers/2-62bc44fdea11f58eabee4954faaa194e77b5a42dd7bbd6685a24815643d27d2c.gif" width="25px"> My GitHub stats</h2>
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=victor-asenjo&show_icons=true&theme=gotham" alt="Víctor Asenjo Githu Stats" />
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=victor-asenjo&show_icons=true&theme=react" alt="Víctor Asenjo Githu Stats" />
 
-
+<h2><img src="pictures/file-repo.git-icon.png" width="20px"> My repositories</h2>
+<p align="left"><a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=victor-asenjo&repo=victor-asenjo.github.io&theme=react" />
+</a>
 <!--
 Here are some ideas to get you started:
 
