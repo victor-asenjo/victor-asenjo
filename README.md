@@ -1,4 +1,4 @@
-<img align="center" width="100%" alt="Víctor Asenjo" src="pictures/PortadaGitHubSinFondo.png" />
+<a href=https://victor-asenjo.github.io><img align="center" width="100%" alt="Víctor Asenjo" src="pictures/PortadaGitHubSinFondo.png" /></a>
 <h1> Hi there, I'm <a href=https://victor-asenjo.github.io>Víctor Asenjo</a> <img src="pictures/giphy.gif" width="30px"></h1>
 
 <a href="https://github.com/victor-asenjo">
@@ -10,11 +10,17 @@
 <a href="https://www.linkedin.com/in/victorasenjo/">
   <img align="left" alt="Víctor Asenjo's LinkedIN" width="22px" src="pictures/linkedin.svg" />
 </a>
+<a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=victorasenj@gmail.com&subject=MISSED%20CALL%20EZTRADER&body=Hey Víctor, I'm [name]">
+  <img align="left" alt="Víctor Asenjo's Gmail" width="22px" src="pictures/gmail.svg" />
+</a>
 <a href="https://discordapp.com/users/victorasenjo#9937">
   <img align="left" alt="Víctor Asenjo's Discord" width="22px" src="pictures/discord.svg" />
 </a>
 <a href="https://www.instagram.com/victorasenjo22/">
-  <img align="left" alt="Víctor Asenjo's Spotify" width="22px" src="pictures/600px-Instagram-Icon.png" />
+  <img align="left" alt="Víctor Asenjo's Instagram" width="22px" src="pictures/600px-Instagram-Icon.png" />
+</a>
+<a href="https://victor-asenjo.github.io">
+  <img align="left" alt="Víctor Asenjo | Web" width="22px" src="pictures/web.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=victor-asenjo.victor-asenjo)
