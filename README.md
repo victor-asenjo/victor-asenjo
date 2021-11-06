@@ -10,6 +10,9 @@
 <a href="https://www.linkedin.com/in/victorasenjo/">
   <img align="left" alt="Víctor Asenjo's LinkedIN" width="22px" src="pictures/linkedin.svg" />
 </a>
+<a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=victorasenj@gmail.com&subject=MISSED%20CALL%20EZTRADER&body=Hey Víctor, I'm [name]">
+  <img align="left" alt="Víctor Asenjo's Gmail" width="22px" src="pictures/gmail.svg" />
+</a>
 <a href="https://discordapp.com/users/victorasenjo#9937">
   <img align="left" alt="Víctor Asenjo's Discord" width="22px" src="pictures/discord.svg" />
 </a>
