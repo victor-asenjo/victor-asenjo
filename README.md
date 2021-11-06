@@ -17,7 +17,10 @@
   <img align="left" alt="Víctor Asenjo's Discord" width="22px" src="pictures/discord.svg" />
 </a>
 <a href="https://www.instagram.com/victorasenjo22/">
-  <img align="left" alt="Víctor Asenjo's Spotify" width="22px" src="pictures/600px-Instagram-Icon.png" />
+  <img align="left" alt="Víctor Asenjo's Instagram" width="22px" src="pictures/600px-Instagram-Icon.png" />
+</a>
+<a href="https://victor-asenjo.github.io">
+  <img align="left" alt="Víctor Asenjo | Web" width="22px" src="pictures/web.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=victor-asenjo.victor-asenjo)
