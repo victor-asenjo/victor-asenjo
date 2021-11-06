@@ -43,7 +43,7 @@ Hi, I'm [Víctor Asenjo](https://victor-asenjo.github.io), a passionate self-tau
   <img src="https://img.shields.io/badge/Instagram-@victorasenjo22-blue?logo=instagram&logoColor=white&color=088F8F" />
 </a>
 
-<a href="mailto:victorasenj@gmail.com" target="_blank" rel="noopener noreferrer">
+<a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=victorasenj@gmail.com&subject=MISSED%20CALL%20EZTRADER&body=Hey Víctor, I'm [name]" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Gmail-victorasenj@gmail.com-red?logo=gmail&logoColor=white&color=088F8F" />
 </a>
 
