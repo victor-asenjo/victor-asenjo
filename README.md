@@ -26,12 +26,11 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=victor-asenjo.victor-asenjo)
 <br />
 
-Hi, I'm [Víctor Asenjo](https://victor-asenjo.github.io), a passionate self-taught full stack web developer and a software engineer student from Catalonia, Spain. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm [Víctor Asenjo](https://victor-asenjo.github.io), a passionate self-taught full stack web developer and a graduate software engineer from Catalonia, Spain. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
   
-- 🔭 I’m currently working on a Telegram Bot.
+- 🔭 I’m currently working on a web semanthic tool and android apps.
 - 💬 Ask me about anything, I will try to answer as soon as possible;
 - 📫 How to reach me: [email](mailto:victorasenj@gmail.com) (or [Telegram](https://telegram.me/victorasenjo) too)
-- ⚡ Fun fact: I study at the Barcelona computer science faculty (FIB - UPC). Also known as the college that makes the best croquettes and cheese sandwich.
 <img src="pictures/separator.jpg" />
 
 
