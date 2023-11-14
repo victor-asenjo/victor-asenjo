@@ -45,10 +45,6 @@ Hi, I'm [Víctor Asenjo](https://victor-asenjo.github.io), a passionate self-tau
 <a href="https://telegram.me/victorasenjo" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Telegram-@victorasenjo-blue?logo=telegram&logoColor=white&color=088F8F" />
 </a>
-  
-<a href="https://www.instagram.com/victorasenjo22/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Instagram-@victorasenjo22-blue?logo=instagram&logoColor=white&color=088F8F" />
-</a>
 
 <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=victorasenj@gmail.com&subject=MISSED%20CALL%20EZTRADER&body=Hey Víctor, I'm [name]" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Gmail-victorasenj@gmail.com-red?logo=gmail&logoColor=white&color=088F8F" />
@@ -64,10 +60,6 @@ Hi, I'm [Víctor Asenjo](https://victor-asenjo.github.io), a passionate self-tau
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"></code>
-
-<h2>📈 Contribution Graph</h2>
-
-<img src="https://activity-graph.herokuapp.com/graph?username=victor-asenjo&theme=xcode" />
 
 <h2><img src="pictures/stats.gif" width="25px"> GitHub Analytics</h2>
 <p align="center">
