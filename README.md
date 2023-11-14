@@ -16,9 +16,11 @@
 <a href="https://discordapp.com/users/victorasenjo#9937">
   <img align="left" alt="Víctor Asenjo's Discord" width="22px" src="pictures/discord.svg" />
 </a>
+<!--
 <a href="https://www.instagram.com/victorasenjo22/">
   <img align="left" alt="Víctor Asenjo's Instagram" width="22px" src="pictures/600px-Instagram-Icon.png" />
 </a>
+-->
 <a href="https://victor-asenjo.github.io">
   <img align="left" alt="Víctor Asenjo | Web" width="22px" src="pictures/web.svg" />
 </a>
@@ -99,21 +101,10 @@ Hi, I'm [Víctor Asenjo](https://victor-asenjo.github.io), a passionate self-tau
   <a href="https://github.com/victor-asenjo/PRO2">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=victor-asenjo&repo=PRO2&theme=react" /></a>
 </p>
-<!--
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!--
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-
-<img align="right" alt="GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500" height="320" />
 -->
